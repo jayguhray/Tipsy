@@ -26,13 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/tipsy%demo.gif" target="_blank"><img src='/tipsy%demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+![Demo] (tipsy demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The build kept failing over and over after implementing the Double function. It wasnt until after an hour of tinkering with the code and starting over from scratch that I realized there needed to be a space in between "??" and "0"
 
 ## License
 
