@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/tipsy/tipsy%demo.gif" target="_blank"><img src='/tipsy/tipsy%demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="/tipsy%demo.gif" target="_blank"><img src='/tipsy%demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
